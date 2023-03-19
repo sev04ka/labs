@@ -1,0 +1,15 @@
+C:\Users\User\Desktop\labsproj\LabN1\LabN1\bin\Debug\net7.0\LabN1.exe
+C:\Users\User\Desktop\labsproj\LabN1\LabN1\bin\Debug\net7.0\LabN1.deps.json
+C:\Users\User\Desktop\labsproj\LabN1\LabN1\bin\Debug\net7.0\LabN1.runtimeconfig.json
+C:\Users\User\Desktop\labsproj\LabN1\LabN1\bin\Debug\net7.0\LabN1.dll
+C:\Users\User\Desktop\labsproj\LabN1\LabN1\bin\Debug\net7.0\LabN1.pdb
+C:\Users\User\Desktop\labsproj\LabN1\LabN1\obj\Debug\net7.0\LabN1.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\labsproj\LabN1\LabN1\obj\Debug\net7.0\LabN1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\labsproj\LabN1\LabN1\obj\Debug\net7.0\LabN1.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\labsproj\LabN1\LabN1\obj\Debug\net7.0\LabN1.AssemblyInfo.cs
+C:\Users\User\Desktop\labsproj\LabN1\LabN1\obj\Debug\net7.0\LabN1.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\labsproj\LabN1\LabN1\obj\Debug\net7.0\LabN1.dll
+C:\Users\User\Desktop\labsproj\LabN1\LabN1\obj\Debug\net7.0\refint\LabN1.dll
+C:\Users\User\Desktop\labsproj\LabN1\LabN1\obj\Debug\net7.0\LabN1.pdb
+C:\Users\User\Desktop\labsproj\LabN1\LabN1\obj\Debug\net7.0\LabN1.genruntimeconfig.cache
+C:\Users\User\Desktop\labsproj\LabN1\LabN1\obj\Debug\net7.0\ref\LabN1.dll
