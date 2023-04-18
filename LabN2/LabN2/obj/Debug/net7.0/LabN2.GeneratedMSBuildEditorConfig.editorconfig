@@ -7,5 +7,5 @@ build_property.InvariantGlobalization =
 build_property.PlatformNeutralAssembly = 
 build_property.EnforceExtendedAnalyzerRules = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
-build_property.RootNamespace = LabN3
-build_property.ProjectDir = C:\Users\User\Desktop\labs\LabN3\LabN3\
+build_property.RootNamespace = LabN2
+build_property.ProjectDir = C:\Users\User\Desktop\labs\LabN2\LabN2\
