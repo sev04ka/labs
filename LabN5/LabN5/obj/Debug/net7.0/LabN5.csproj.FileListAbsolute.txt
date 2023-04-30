@@ -1,0 +1,15 @@
+C:\Users\User\Desktop\labs\LabN5\LabN5\bin\Debug\net7.0\LabN5.exe
+C:\Users\User\Desktop\labs\LabN5\LabN5\bin\Debug\net7.0\LabN5.deps.json
+C:\Users\User\Desktop\labs\LabN5\LabN5\bin\Debug\net7.0\LabN5.runtimeconfig.json
+C:\Users\User\Desktop\labs\LabN5\LabN5\bin\Debug\net7.0\LabN5.dll
+C:\Users\User\Desktop\labs\LabN5\LabN5\bin\Debug\net7.0\LabN5.pdb
+C:\Users\User\Desktop\labs\LabN5\LabN5\obj\Debug\net7.0\LabN5.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\labs\LabN5\LabN5\obj\Debug\net7.0\LabN5.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\labs\LabN5\LabN5\obj\Debug\net7.0\LabN5.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\labs\LabN5\LabN5\obj\Debug\net7.0\LabN5.AssemblyInfo.cs
+C:\Users\User\Desktop\labs\LabN5\LabN5\obj\Debug\net7.0\LabN5.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\labs\LabN5\LabN5\obj\Debug\net7.0\LabN5.dll
+C:\Users\User\Desktop\labs\LabN5\LabN5\obj\Debug\net7.0\refint\LabN5.dll
+C:\Users\User\Desktop\labs\LabN5\LabN5\obj\Debug\net7.0\LabN5.pdb
+C:\Users\User\Desktop\labs\LabN5\LabN5\obj\Debug\net7.0\LabN5.genruntimeconfig.cache
+C:\Users\User\Desktop\labs\LabN5\LabN5\obj\Debug\net7.0\ref\LabN5.dll

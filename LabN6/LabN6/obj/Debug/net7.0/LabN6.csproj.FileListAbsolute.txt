@@ -1,0 +1,15 @@
+C:\Users\User\Desktop\labs\LabN6\LabN6\bin\Debug\net7.0\LabN6.exe
+C:\Users\User\Desktop\labs\LabN6\LabN6\bin\Debug\net7.0\LabN6.deps.json
+C:\Users\User\Desktop\labs\LabN6\LabN6\bin\Debug\net7.0\LabN6.runtimeconfig.json
+C:\Users\User\Desktop\labs\LabN6\LabN6\bin\Debug\net7.0\LabN6.dll
+C:\Users\User\Desktop\labs\LabN6\LabN6\bin\Debug\net7.0\LabN6.pdb
+C:\Users\User\Desktop\labs\LabN6\LabN6\obj\Debug\net7.0\LabN6.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\labs\LabN6\LabN6\obj\Debug\net7.0\LabN6.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\labs\LabN6\LabN6\obj\Debug\net7.0\LabN6.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\labs\LabN6\LabN6\obj\Debug\net7.0\LabN6.AssemblyInfo.cs
+C:\Users\User\Desktop\labs\LabN6\LabN6\obj\Debug\net7.0\LabN6.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\labs\LabN6\LabN6\obj\Debug\net7.0\LabN6.dll
+C:\Users\User\Desktop\labs\LabN6\LabN6\obj\Debug\net7.0\refint\LabN6.dll
+C:\Users\User\Desktop\labs\LabN6\LabN6\obj\Debug\net7.0\LabN6.pdb
+C:\Users\User\Desktop\labs\LabN6\LabN6\obj\Debug\net7.0\LabN6.genruntimeconfig.cache
+C:\Users\User\Desktop\labs\LabN6\LabN6\obj\Debug\net7.0\ref\LabN6.dll
